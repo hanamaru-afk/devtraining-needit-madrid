@@ -17,16 +17,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-22 06:41:10</sys_created_on>
+            <sys_created_on>2019-08-22 06:58:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>21cb8527dbd333000807874239961901</sys_id>
+            <sys_id>02bf8da7dbd333000807874239961963</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">21cb4527dbd3330008078742399619fe</sys_ui_form>
-            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">e1cb4527dbd3330008078742399619fd</sys_ui_section>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_needit" sys_domain="global" view="Default view">35bf4da7dbd33300080787423996199a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-22 06:41:10</sys_updated_on>
+            <sys_updated_on>2019-08-22 06:58:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-22 07:10:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b782992bdbd333000807874239961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_58872_needit_needit" name="x_58872_needit_needit" sys_domain="global" view="Default view">21cb4527dbd3330008078742399619fe</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_58872_needit_needit" sys_domain="global" view="Default view">7f82992bdbd333000807874239961971</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-22 07:10:48</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_58872_needit_needit</name>
